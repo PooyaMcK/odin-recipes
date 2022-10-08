@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(173, 255, 244);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: rgb(16, 70, 92);
+}
+
+ul li {
+    font-weight: bold;
+    color: green;
+}
+
+li a {
+    color: rgb(9, 77, 18);
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+.intro {
+    background-color: rgb(110, 253, 222);
+    padding: 3px;
+}
+
+div {
+    background-color: rgb(252, 241, 225);
+    width: 300px;
+    padding: 1px;
+}
+
+ol {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ol li{
+    font-weight: 800;
+    font-style: italic;
+    font-size: 16px;
+}
